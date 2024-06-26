@@ -1,5 +1,5 @@
 <h1>Gestion des réservation </h1>
-<button nonclick="redirectToDestinations()">Destinations</button>
+<button onclick="redirectToDestinations()">Destinations</button>
 <button onclick="redirectToReservations()">Réservations</button>
 <button onclick="redirectToPaiements()">Paiements</button>
 <button onclick="redirectToClients()">Clients</button>
